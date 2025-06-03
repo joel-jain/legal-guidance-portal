@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+[database.db](http://_vscodecontentref_/4)
+.env
