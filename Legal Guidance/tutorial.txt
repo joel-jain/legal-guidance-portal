@@ -1,0 +1,11 @@
+npm i
+npm install leaflet react-leaflet --legacy-peer-deps
+npm run dev
+node server.js (seperate terminal)
+
+Credentials - 
+user@test.com 
+user123
+
+admin@test.com
+admin123
